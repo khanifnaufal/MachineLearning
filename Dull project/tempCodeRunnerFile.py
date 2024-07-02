@@ -1,0 +1,1 @@
+D:/kuliah/belajar-nonkuliah/Dicoding JavaScript/preprocessed_data.csv
